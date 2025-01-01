@@ -1,0 +1,18 @@
+{
+    "users": [
+      { "id": 1,
+        "name": "Rahul Sharma", 
+        "mobile": "9876543210" 
+    },
+      { "id": 2, "name": "Priya Singh", "mobile": "9123456789" },
+      { "id": 3, "name": "Amit Kumar", "mobile": "9988776655" },
+      { "id": 4, "name": "Sneha Verma", "mobile": "9871234567" },
+      { "id": 5, "name": "Rohan Das", "mobile": "9543217896" },
+      { "id": 6, "name": "Anjali Gupta", "mobile": "9234567890" },
+      { "id": 7, "name": "Vikas Mishra", "mobile": "9345678901" },
+      { "id": 8, "name": "Nidhi Patel", "mobile": "9456789012" },
+      { "id": 9, "name": "Arjun Yadav", "mobile": "9567890123" },
+      { "id": 10, "name": "Kavita Rai", "mobile": "9678901234" }
+    ]
+  }
+  
