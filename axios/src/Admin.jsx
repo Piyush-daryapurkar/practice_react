@@ -22,11 +22,27 @@ const Admin = () => {
  
   return (
     <>
+       
+     <form >
+     <thead>
+            <td>name</td>
+            <td>id</td>
+            <td>mobile</td>
+        </thead>
     {
+      
         userData.map((e)=>(
-            <h1>{e.name}</h1>
+            <>
+               <tbody>
+               <td>{e.name}</td>
+                <td>{e.id}</td>
+                <td>{e.mobile}</td>
+               </tbody>
+
+            </>
         ))
     }
+     </form>
     
       
     </>
